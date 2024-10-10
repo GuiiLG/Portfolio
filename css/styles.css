@@ -1,0 +1,19 @@
+.heroSection {
+  height: 100vh;
+  background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/intro-bg.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+#modal1 .modal-content {
+  background: url(/images/Pasted\ image.png) center center no-repeat;
+  background-size: cover;
+}
+
+#modal2 .modal-content {
+  background: url(/images/Pasted\ image\ \(2\).png) center center no-repeat;
+  background-size: cover;
+}

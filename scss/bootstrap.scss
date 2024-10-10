@@ -1,3 +1,23 @@
+// Colors
+$primary : #FB3640;
+$secondary: #2589BD;
+$dark : #141414;
+$light : #EEF0F2;
+
+$spacer: 1rem !default;
+    $spacers: (
+    0: 0,
+    1: $spacer * .25,
+    2: $spacer * .5,
+    3: $spacer,
+    4: $spacer * 1.5,
+    5: $spacer * 3,
+    6: $spacer *6,
+    7: $spacer *10,
+    8: $spacer  * 12,
+    ) !default;
+
+
 // Font
 $font-family-sans-serif: 'Open Sans', sans-serif;
 
